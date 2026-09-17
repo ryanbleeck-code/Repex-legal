@@ -1,6 +1,6 @@
 [privacy_1.md](https://github.com/user-attachments/files/32068391/privacy_1.md)[Uploading privacy_1.m# Privacy Policy — Repex
 
-**Last updated: 10 September 2026**
+**Last updated: 17 September 2026**
 
 Repex is an iOS app for tracking strength training, made by Ryan Bleecke ("I", "me"), an individual developer based in France.
 
@@ -52,6 +52,8 @@ Signing in is optional and exists so your training record survives a lost or rep
 Photos are uploaded as part of your settings data. There is currently no way to back up your workouts without also backing up any photos you have added. If you do not want photos stored in the cloud, do not add them while backup is enabled.
 
 **Who can read it.** Database access rules restrict every record to its owner. Only your signed-in account can read your data. I have administrative access to the database as its operator, but do not read individual users' training records except where strictly necessary to fix a fault you have reported.
+
+**One aggregate use.** To decide which exercises to add to the built-in library, I periodically look at the exercise *names* in backed-up workouts and splits — in aggregate, as a ranked list of names with counts, not per person. This only covers accounts with backup turned on; nothing is read from a phone that has not signed in.
 
 ---
 
