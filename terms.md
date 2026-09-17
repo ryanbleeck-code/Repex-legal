@@ -1,4 +1,4 @@
-[terms.md](https://github.com/user-attachments/files/32068444/terms.md)
+
 # Terms of Service — Repex
 
 **Last updated: 10 September 2026**
