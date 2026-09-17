@@ -1,4 +1,4 @@
-[privacy_1.md](https://github.com/user-attachments/files/32068391/privacy_1.md)[Uploading privacy_1.m# Privacy Policy — Repex
+# Privacy Policy — Repex
 
 **Last updated: 17 September 2026**
 
